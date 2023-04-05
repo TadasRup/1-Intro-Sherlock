@@ -6,10 +6,6 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
-
-Site published at: https://tadasrup.github.io/1-Intro-Sherlock/
-
 Design: [Serlokas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
 
 ## 🎯 Project features/goals
