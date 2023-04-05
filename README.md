@@ -7,6 +7,7 @@ _website design project_
 ## 🌟 About
 
 Design: [Serlokas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
+
 Preview Link: https://tadasrup.github.io/1-Intro-Sherlock/
 
 ## 🎯 Project features/goals
